@@ -75,11 +75,6 @@ PPO/A2C agents trained on 3,774 trading days across 8 assets — 42.49% annual r
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sakhee-20&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakhee-20&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sakhee-20/Sakhee-20/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
 ### ✍️ Random Dev Quote
 
