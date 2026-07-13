@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sakhee-mate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakhee-mate" height="30" width="40" /></a>
 <a href="https://instagram.com/sakhee_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakhee_24" height="30" width="40" /></a>
-<a href="mailto:sakheemate@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sakheemate" height="30" width="40" /></a>
+<a href="mailto:sakheemate@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sakheemate" height="30" /></a>
 </p>
 
 ## 🚀 Featured Projects
@@ -66,7 +66,7 @@ PPO/A2C agents trained on 3,774 trading days across 8 assets — 42.49% annual r
 ## 🏆 Trophies
 
 <p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=Sakhee-20&theme=algolia&no-frame=true&no-bg=false&margin-w=8&row=1" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sakhee-20&theme=flat&column=4&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
 ## 📊 Github Stats
@@ -80,8 +80,6 @@ PPO/A2C agents trained on 3,774 trading days across 8 assets — 42.49% annual r
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sakhee-20/Sakhee-20/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
-
-> ℹ️ The snake needs a one-time GitHub Action to generate — see `snake.yml` and the setup note in my earlier message.
 
 ### ✍️ Random Dev Quote
 
