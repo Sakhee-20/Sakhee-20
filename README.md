@@ -57,17 +57,16 @@ PPO/A2C agents trained on 3,774 trading days across 8 assets — 42.49% annual r
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=py,c,cpp,js,nodejs,express,react,html,css,tailwind,fastapi,flask&theme=dark" alt="languages" />
+
+<img src="https://skillicons.dev/icons?i=py,c,cpp,js,nodejs,express,react,html,css,tailwind,flask&theme=dark" alt="languages" />
 </p>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,gcp,git,github,figma,jupyter,matlab,pytorch,tensorflow&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,gcp,git,github,figma,matlab,pytorch,tensorflow&theme=dark" alt="tools" />
+  
 </p>
 
-## 🏆 Trophies
 
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=Sakhee-20&theme=flat&column=4&margin-w=8&margin-h=8" alt="trophies" />
-</p>
+
 
 ## 📊 Github Stats
 
